@@ -1,0 +1,74 @@
+html,
+body {
+    background-image: url("./images/tweed.png");
+    background-size: cover;
+    color: #ffff;
+}
+
+h1 {
+    text-align: center;
+    margin: 0px;
+    padding: 20px;
+}
+
+.wrapper {
+    height: 100%;
+    width: 50%;
+    margin: auto;
+}
+
+div.container {
+    margin: 10px;
+}
+
+div.container.c-1 {
+    padding: 20px;
+    background-color: #9168b3;
+    float: left;
+    margin-right: 20%;
+}
+
+div.container.c-1 img {
+    width: 150px;
+    float: left;
+    padding: 10px;
+}
+
+div.container.c-2 {
+    padding: 20px;
+    float: left;
+    background-color: #a8b368;
+    margin-left: 20%;
+}
+
+div.container.c-2 img {
+    width: 150px;
+    float: right;
+    padding: 10px;
+}
+
+div.container.c-3 {
+    padding: 20px;
+    float: left;
+    background-color: #B36C68;
+    margin-right: 20%;
+}
+
+div.container.c-3 img {
+    width: 150px;
+    float: left;
+    padding: 10px;
+}
+
+div.container.c-4 {
+    padding: 20px;
+    float: left;
+    background-color: #636363;
+    margin-left: 20%;
+}
+
+div.container.c-4 img {
+    width: 150px;
+    float: right;
+    padding: 10px;
+}
